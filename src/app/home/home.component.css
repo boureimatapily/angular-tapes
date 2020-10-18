@@ -2,14 +2,30 @@
     width:500px;
     height:400px;
     margin-top: 0px;
-
+}
+.getstartbtn{
+    width: 15rem;
+    height: 3rem;
+    border-radius: 10px;
 }
 .hero-section{
     margin-top: 10px;
 }
 .hero-section-text{
-    margin-top: 50px;
+    margin-top: 5rem;
 }
 .hero-section-img{
     margin-top: 0px;
+}
+
+.card-img-top{
+    width: 10rem;
+    height: 8rem;
+    margin: auto;
+}
+.service-card{
+    height: 18rem;
+}
+.service-card-body{
+    text-align: center;
 }
